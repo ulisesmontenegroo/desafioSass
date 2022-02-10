@@ -22,7 +22,10 @@ header{
                 background-color: whitesmoke;
                 border-radius: 5px;
                 list-style: none;
-                color: $font-color;
+                a{
+                    text-decoration: none;
+                    color: $font-color;
+                }
             }
         }
     }
